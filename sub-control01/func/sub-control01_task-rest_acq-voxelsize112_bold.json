@@ -3,7 +3,6 @@
    "FlipAngle": 87.0, 
    "PartialFourier": "6/8", 
    "EffectiveEchoSpacing": 0.00086, 
-   "TotalReadoutTime": 0.0, 
    "ReceiveCoilName": "12 channel head coil", 
    "TaskName": "Resting State", 
    "RepetitionTime": 3.0, 

@@ -11,7 +11,6 @@
 	"MRAcquisitionType": "2D",
 	"PartialFourier": "6/8",
 	"PhaseEncodingDirection": "j-",
-	"TotalReadoutTime": 0.00,
 	"PixelBandwidth": 1260.0,
 	"EPI_Factor": 128,
 	"EffectiveEchoSpacing": 0.00086,
